@@ -5,6 +5,9 @@ title: OKD.io
 
 <!--- cSpell:ignore roadmap -->
 
+!!! Latest
+    The [OKD User Survey](https://docs.google.com/forms/d/1Ez-pamXYBt7GazAT2Nb8xlNjgTYJnjc_vWbiVHxCNx8){target=_blank} is now live.  Please take a few minutes to complete the survey to help us improve OKD
+
 Built around a core of OCI container packaging and Kubernetes container cluster management, OKD is also augmented by application lifecycle management functionality and DevOps tooling. OKD provides a complete open source container application platform.
 
 ## OKD 4
@@ -39,14 +42,12 @@ We know you've got great ideas for improving OKD and its network of open source 
 
 ### Get Started
 
-All contributions are welcome! OKD uses the Apache 2 license and does not require any contributor agreement to submit patches. Please open issues for any bugs or problems you encounter, ask questions in the **#openshift-dev** on Kubernetes Slack Channel, or get involved in the OKD-WG by joining the OKD-WG google group.
+All contributions are welcome! OKD uses the Apache 2 license and does not require any contributor agreement to submit patches. Please open issues for any bugs or problems you encounter, ask questions in the **#openshift-users** on Kubernetes Slack Channel, or get involved in the OKD-WG by joining the OKD-WG google group.
 
 - Get started with the [Contributors Guide](https://github.com/openshift/okd/blob/master/CONTRIBUTING.md)
-- Fork [the repository](https://github.com/openshift/origin)
 - Read [the documentation](https://docs.okd.io/latest/welcome/index.html)
 - Read [our charter](https://github.com/openshift/community/blob/master/CHARTER.md)
 - Help Resolve an [Open Issue](https://github.com/openshift/okd/issues)
-- Review our [Apache 2 license](https://docs.okd.io/latest/welcome/index.html)
 
 ### Connect to the community
 
@@ -54,9 +55,8 @@ Join the [OKD Working Group](contributor.md)
 
 ### Talk to Us
 
-- Follow the [public user or development mailing lists](https://lists.openshift.redhat.com/openshiftmm/listinfo){: target=_blank}
-- Chat with us on the [#openshift-dev channel on Slack](https://kubernetes.slack.com/messages/openshift-dev/){: target=_blank}
-
+- Follow the [public mailing lists](https://groups.google.com/g/okd-wg)
+- Chat with us on the [#openshift-users channel on Slack](https://kubernetes.slack.com/messages/openshift-users/)
 
 ## Standardization through Containerization
 
